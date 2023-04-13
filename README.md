@@ -1,3 +1,3 @@
 # coding-project-template
 
-Made in IBM course "Developing Front-End Apps with React" in Coursera
+Done on IBM course called "Developing Front-End Apps with React" in Coursera
